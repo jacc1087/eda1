@@ -23,10 +23,12 @@ Este dataset proveniente de The Movie Database (TMDB) contiene datos relevantes 
 - Importación del dataset
 - Revisión de las dimensiones y primeras filas
 - Revisión de los tipos de datos de las columnas
+- Corrección de tipos
 - Distribución inicial de las columnas
 - Tratamiento de duplicados
 - Tratamiento de valores nulos
 - Corrección de incoherencias
+- Normalización de fechas y categorías
 - Análisis de datos
 
 ## Autor
