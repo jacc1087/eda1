@@ -5,6 +5,16 @@ Este proyecto analiza un dataset de películas con información sobre presupuest
 ## Dataset
 Datos tomados del archivo `tmdb_5000_movies.csv` con 4803 filas y 20 columnas.
 
+Este dataset proveniente de The Movie Database (TMDB) contiene datos relevantes sobre 4803 películas:
+- título y título original
+- descripción, eslogan
+- fecha de lanzamiento
+- duración
+- presupuesto y recaudación
+- popularidad y puntuación media de los usuarios
+- géneros
+- idiomas hablados
+
 ## Cómo ejecutar
 1. Clonar repositorio
 2. Ejecutar `eda1.ipynb` en Jupyter Notebook
