@@ -5,7 +5,7 @@ Este proyecto analiza un dataset de películas con información sobre presupuest
 ## Dataset
 Datos tomados del archivo `tmdb_5000_movies.csv` con 4803 filas y 20 columnas.
 
-Este dataset proveniente de The Movie Database (TMDB) contiene datos relevantes sobre 4803 películas:
+Este dataset proveniente de The Movie Database (TMDB) contiene datos relevantes sobre 4803 películas, destacando:
 - título y título original
 - descripción, eslogan
 - fecha de lanzamiento
